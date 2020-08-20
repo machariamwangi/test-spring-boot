@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 19 20:19:35 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-07bb-b1c0-000002fb42d0 
+on database directory memory:/sheriff/Downloads/helloWorld/9eaa5572-4f70-43d4-8031-7cd90b676515 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42a57993 
+Loaded from file:/sheriff/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=/sheriff/Downloads/helloWorld
+os.name=Linux
+os.arch=amd64
+os.version=5.7.0-kali1-amd64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
